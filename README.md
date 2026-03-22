@@ -1,3 +1,4 @@
+## About me :
 Hey 👋, I'm an AI & Data Science student  
 
 Building AI and web-based projects with a focus on problem-solving and real-world applications  
