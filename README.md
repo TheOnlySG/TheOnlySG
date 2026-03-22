@@ -1,6 +1,10 @@
-# About Me:
-🔭 I’m currently working on AI , Data Science + web-based projects  <br>👯 I’m looking to collaborate on AI/ML or full-stack projects  <br>🤝 I’m looking for help with scaling projects and advanced ML concepts  <br>🌱 I’m currently learning DSA, Machine Learning, and GenAI  <br>💬 Ask me about Python, C/C++, and AI powered web development  
+Hey 👋, I'm an AI & Data Science student  
 
+Building AI and web-based projects with a focus on problem-solving and real-world applications  
+
+📚 Learning: Machine Learning, Statistics, Linear Algebra  
+🧠 Focus: DSA, Data Analysis, GenAI  
+⚙️ Interests: Operating Systems, System Design basics
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/spandan-ghodke-7636ba32b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:spandanghodke2006@gmail.com) 
