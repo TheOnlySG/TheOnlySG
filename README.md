@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on AI , Data Science + web-based projects  <br>👯 I’m looking to collaborate on AI/ML or full-stack projects  <br>🤝 I’m looking for help with scaling projects and advanced ML concepts  <br>🌱 I’m currently learning DSA, Machine Learning, and GenAI  <br>💬 Ask me about Python, C/C++, and AI powered web development  
 
 
