@@ -26,7 +26,7 @@
 I'm <b>Spandan Ghodke</b>, an AI & Data Science student focused on building practical, real-world applications. <br><br>
 
 - 🎓 Pursuing <b>B.E. Artificial Intelligence & Data Science</b> @ GESCOE, Nashik  
-- 🧠 Working with <b>Python, C/C++, and Data Analysis</b>, with hands-on experience using NumPy, Pandas, and OpenCV  
+- 🧠 Working with <b>Python, C/C++, and Data Analysis</b>  
 - 🚀 Building AI-driven and web-based projects while strengthening fundamentals in <b>DSA, Machine Learning, and GenAI</b>  
 - ⚙️ Interested in <b>Operating Systems and System Design</b>, exploring how systems work at a deeper level  
 </p>
