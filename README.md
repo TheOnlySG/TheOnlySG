@@ -1,15 +1,21 @@
 <h1 align="center">Hey there 👋 I'm Spandan</h1>
 
 <div align="center">
-  <a href="https://linkedin.com/in/spandan-ghodke-7636ba32b" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="mailto:spandanghodke2006@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
-  <a href="https://leetcode.com/u/DalChawaaal/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" width="40" height="40" alt="leetcode logo" />
-  </a>
+
+<a href="https://linkedin.com/in/spandan-ghodke-7636ba32b" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:spandanghodke2006@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/DalChawaaal/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" width="45" />
+</a>
+
 </div>
 
 
