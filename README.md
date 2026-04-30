@@ -44,5 +44,5 @@ I'm <b>Spandan Ghodke</b>, an AI & Data Science student focused on building prac
 # 🧠 Coding Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/DalChawaaal" />
+  <img src="https://leetcard.jacoblin.cool/DalChawaaal?ext=heatmap" />
 </div>
