@@ -23,7 +23,7 @@ I'm an **Artificial Intelligence & Data Science Engineering** student passionate
 - 🤖 Currently exploring **Machine Learning, Deep Learning, and Data Science**
 - 🧠 Strengthening my foundations in **Linear Algebra, Statistics, and DSA**
 - 💻 Building practical AI projects with **Python, TensorFlow, and modern ML tools**
-- ⚙️ Interested in **Operating Systems, System Design, and Backend Engineering**
+- ⚙️ Interested in **generative ai and agentic ai**
 - 🚀 A self-learner driven by curiosity, always exploring new technologies
 
 # >> Tech Stack:
