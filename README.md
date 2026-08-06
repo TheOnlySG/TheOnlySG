@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.jpg" alt="Spandan Banner" width="100%">
+  <img src="./assets/banner.png" alt="Spandan Banner" width="100%">
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/spandan-ghodke-7636ba32b"><strong>LinkedIn</strong></a>
@@ -47,7 +47,7 @@ I'm an **Artificial Intelligence & Data Science Engineering** student passionate
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheOnlySG&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheOnlySG&theme=merko&hide_border=true" />
 </p>
 
 > "Every project starts with 'How hard can it be?'"
