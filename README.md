@@ -1,6 +1,6 @@
-<h1 align="center">
-  <b>Hey, I'm Spandan!</b>
-</h1>
+<p align="center">
+  <img src="./assets/banner.jpg" alt="Spandan Banner" width="100%">
+</p>
 <p align="center">
   <a href="https://linkedin.com/in/spandan-ghodke-7636ba32b"><strong>LinkedIn</strong></a>
   •
@@ -24,7 +24,6 @@ I'm an **Artificial Intelligence & Data Science Engineering** student passionate
 - 🧠 Strengthening my foundations in **Linear Algebra, Statistics, and DSA**
 - 💻 Building practical AI projects with **Python, TensorFlow, and modern ML tools**
 - ⚙️ Interested in **generative ai and agentic ai**
-- 🚀 A self-learner driven by curiosity, always exploring new technologies
 
 # >> Tech Stack:
 
